@@ -52,18 +52,19 @@ The **Python program** continuously monitors the classification output from Teac
 
 **Arduino** receives the command sent from Python and executes the corresponding action. This involves rotating the internal cylinder to the correct bin section and activating push flaps to dispose of the item into the appropriate compartment.
 
+<div align="center">
+<img src="https://i.imgur.com/Ls6KMM5.png" alt="Home page after logging in"/>
+</div>
+
 All three components work together in real-time to deliver fast, accurate, and automated waste sorting — without the need for any manual input.
 
 ---
 
 
 
-## 🔧 How It Works
+## 📺 Project Demo
+[![Watch the Demo](https://i.imgur.com/WHi7U0s.png)](https://youtu.be/EZBboQ9rwXk)
 
-1. **User shows an item** to the webcam  
-2. The Python script captures the image and classifies it using the Teachable Machine model  
-3. Based on the result (e.g., `Recyclable` or `Biodegradable`), a signal is sent to Arduino via USB  
-4. Arduino **moves the servo** to direct the trash to the correct bin
 
 ---
 

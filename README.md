@@ -43,8 +43,6 @@ I was in charge of the **Teachable Machine integration** and **Python programmin
 - Joan John Mbunda
 ---
 
-## 📸 Arduino Project Pictures
-
 
 ## 🛠️ PROGRAM AND CROSS-INTEGRATIONS
 
@@ -63,6 +61,22 @@ The **Python program** continuously monitors the classification output from Teac
 All three components work together in real-time to deliver fast, accurate, and automated waste sorting — without the need for any manual input.
 
 ---
+
+## 📸 Arduino Project Pictures
+
+<h3>Structural Design:</h3>  
+<div align="center">
+<img src="https://i.imgur.com/ADs6dpE.png" width="80%" alt="Home"/>
+</div>
+
+<br/>
+
+<h3> Final completed Project Build :</h3>  
+<div align="center">
+<img src="https://i.imgur.com/ADs6dpE.png" width="80%" alt="Home"/>
+</div>
+
+<br/>
 
 
 

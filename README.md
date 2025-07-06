@@ -63,9 +63,8 @@ All three components work together in real-time to deliver fast, accurate, and a
 
 
 ## 📺 Project Demo
-<a href="https://youtu.be/EZBboQ9rwXk" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/WHi7U0s.png" alt="Watch the Demo" />
-</a>
+[![Watch the Demo](https://i.imgur.com/WHi7U0s.png)](https://youtu.be/EZBboQ9rwXk)
+
 
 
 

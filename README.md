@@ -41,6 +41,10 @@ I was in charge of the **Teachable Machine integration** and **Python programmin
 - Chris Edappady 
 - Suraj Srinivasan 
 - Joan John Mbunda
+---
+
+## 📸 Arduino Project Pictures
+
 
 ## 🛠️ PROGRAM AND CROSS-INTEGRATIONS
 

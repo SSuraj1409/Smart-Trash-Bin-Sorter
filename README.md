@@ -65,9 +65,6 @@ All three components work together in real-time to deliver fast, accurate, and a
 ## 📺 Project Demo
 [![Watch the Demo](https://i.imgur.com/WHi7U0s.png)](https://youtu.be/EZBboQ9rwXk)
 
-
-
-
 ---
 
 ## 🖼️ System Flow Diagram

@@ -73,17 +73,19 @@ All three components work together in real-time to deliver fast, accurate, and a
 
 <h3> Final completed Project Build :</h3>  
 <div align="center">
-<img src="https://i.imgur.com/ADs6dpE.png" width="80%" alt="Home"/>
+<img src="https://i.imgur.com/qQvcMNN.jpeg" width="80%" alt="Home"/>
+<img src="https://i.imgur.com/gAXHmkh.jpeg" width="80%" alt="Home"/>
+<img src="https://i.imgur.com/AIDPxf2.jpeg" width="80%" alt="Home"/>
 </div>
 
 <br/>
 
-
+---
 
 ## 📺 Project Demo
+
 [![Watch the Demo](https://i.imgur.com/WHi7U0s.png)](https://youtu.be/EZBboQ9rwXk)
 
 ---
 
-## 🖼️ System Flow Diagram
 
